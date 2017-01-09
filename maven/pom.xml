@@ -11,7 +11,7 @@
   <scm>
       <url>https://github.com/Vamsi789/sujan</url>
     <connection>scm:git:git://github.com/Vamsi789/sujan.git</connection>
-    <developerConnection>scm:git:git@github.com/Vamsi789/sujan.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:Vamsi789/sujan.git</developerConnection>
 	<tag>maven-1.0</tag>
    </scm>
 
@@ -27,6 +27,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
    <build>
   <plugins>
   <plugin>
